@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Guanyu Lin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A first-year Master's student in Software Engineering at East China Normal University"
+  location         : "China"
+  employer         : "East China University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "51275902135@stu.ecnu.edu.cn" 
 
   # Academic websites
   academia         : # URL
